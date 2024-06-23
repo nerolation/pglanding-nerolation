@@ -21,6 +21,17 @@ I work as a researcher at the Applied Research Group (ARG) at the Ethereum Found
 
 ---
 
+## OSS Projects
+
+- **[DotPics.Info](https://dotpics.info)**
+  - [mevboost.pics](https://mevboost.pics)
+  - [censorship.pics](https://censorship.pics)
+  - [reorg.pics](https://reorg.pics)
+  - [timing.pics](https://timing.pics)
+  - [tornado.pics](https://tornado.pics)
+
+---
+
 ## Papers
 
 #### [Blockchain censorship](https://arxiv.org/pdf/2305.18545)
