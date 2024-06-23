@@ -11,6 +11,11 @@ I work as a researcher at the Applied Research Group (ARG) at the Ethereum Found
 
 ---
 
+## EthResearch
+- **[https://ethresear.ch/u/nero_eth/summary](https://ethresear.ch/u/nero_eth/summary)**
+
+---
+
 ## EIPs
 1. [EIP-7623: Increase Calldata Cost](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7623.md)
 1. [EIP-7716: Anti-Correlation Attestation Penalties](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7716.md)
@@ -67,6 +72,9 @@ I work as a researcher at the Applied Research Group (ARG) at the Ethereum Found
 ---
 
 ## Blog Posts
+#### [Blobs, Reorgs, and the Role of MEV-Boost.](https://ethresear.ch/t/blobs-reorgs-and-the-role-of-mev-boost/19783)
+- **Date:** June 11, 2024
+
 #### [Is it worth using MEV-Boost?](https://ethresear.ch/t/is-it-worth-using-mev-boost/19753)
 - **Date:** May 29, 2024
 
