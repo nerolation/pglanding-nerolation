@@ -18,8 +18,12 @@ I work as a researcher at the Applied Research Group (ARG) at the Ethereum Found
 
 ## EIPs
 1. [EIP-7623: Increase Calldata Cost](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7623.md)
-1. [EIP-7716: Anti-Correlation Attestation Penalties](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7716.md)
-1. [EIP-7691: Blob throughput increase](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7691.md)
+2. [EIP-7691: Blob throughput increase](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7691.md)
+3. [EIP-7716: Anti-Correlation Attestation Penalties](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7716.md)
+4. [EIP-7862: Delayed Execution Layer State Root](https://eips.ethereum.org/EIPS/eip-7862)
+5. [EIP-7863: Block-level warming](https://eips.ethereum.org/EIPS/eip-7863)
+6. [EIP-7886: Delayed Execution](https://eips.ethereum.org/EIPS/eip-7886)
+
    
 
 ## ERCs
@@ -75,6 +79,12 @@ I work as a researcher at the Applied Research Group (ARG) at the Ethereum Found
 ---
 
 ## Blog Posts
+
+#### [Delayed Execution And Skipped Transactions](https://ethresear.ch/t/delayed-execution-and-skipped-transactions/21677)  
+- **Date:** Feb 5, 2025
+
+#### [Block-Level Warming](https://ethresear.ch/t/block-level-warming/21452)  
+- **Date:** Jan 16, 2025
 
 #### [On Increasing the Block Gas Limit: Technical Considerations & Path Forward](https://ethresear.ch/t/on-increasing-the-block-gas-limit-technical-considerations-path-forward/21225)  
 - **Date:** Dec 9, 2024
