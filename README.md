@@ -23,7 +23,7 @@ I work as a researcher at the Applied Research Group (ARG) at the Ethereum Found
 4. [EIP-7862: Delayed Execution Layer State Root](https://eips.ethereum.org/EIPS/eip-7862)
 5. [EIP-7863: Block-level warming](https://eips.ethereum.org/EIPS/eip-7863)
 6. [EIP-7886: Delayed Execution](https://eips.ethereum.org/EIPS/eip-7886)
-
+7. [EIP-7928: Block-level Access Lists](https://eips.ethereum.org/EIPS/eip-7928)
    
 
 ## ERCs
@@ -42,6 +42,7 @@ I work as a researcher at the Applied Research Group (ARG) at the Ethereum Found
   - [reorg.pics](https://reorg.pics)
   - [timing.pics](https://timing.pics)
   - [tornado.pics](https://tornado.pics)
+  - [dependency.pics](https://dependency.pics)
 
 ---
 
@@ -81,7 +82,13 @@ I work as a researcher at the Applied Research Group (ARG) at the Ethereum Found
 
 ## Blog Posts
 
-#### [Delayed Execution And Skipped Transactions](https://ethresear.ch/t/delayed-execution-and-skipped-transactions/21677)  
+#### [Delayed Execution and Free DA](https://ethresear.ch/t/delayed-execution-and-free-da/22265)  
+- **Date:** May 5, 2025
+
+#### [Execution Dependencies](https://ethresear.ch/t/execution-dependencies/22150)  
+- **Date:** Apr 14, 2025
+
+- #### [Delayed Execution And Skipped Transactions](https://ethresear.ch/t/delayed-execution-and-skipped-transactions/21677)  
 - **Date:** Feb 5, 2025
 
 #### [Block-Level Warming](https://ethresear.ch/t/block-level-warming/21452)  
