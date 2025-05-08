@@ -88,7 +88,7 @@ I work as a researcher at the Applied Research Group (ARG) at the Ethereum Found
 #### [Execution Dependencies](https://ethresear.ch/t/execution-dependencies/22150)  
 - **Date:** Apr 14, 2025
 
-- #### [Delayed Execution And Skipped Transactions](https://ethresear.ch/t/delayed-execution-and-skipped-transactions/21677)  
+#### [Delayed Execution And Skipped Transactions](https://ethresear.ch/t/delayed-execution-and-skipped-transactions/21677)  
 - **Date:** Feb 5, 2025
 
 #### [Block-Level Warming](https://ethresear.ch/t/block-level-warming/21452)  
