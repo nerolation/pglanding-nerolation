@@ -64,7 +64,7 @@ I work as a researcher at the prototyping team at the Ethereum Foundation.
 #### [Expanding Mempool Perspectives](https://ethresear.ch/t/expanding-mempool-perspectives/22022)
 - **Date:** March 27, 2025
 
-#### Max-Blobs Flag: Economic Perspective 
+#### [Max-Blobs Flag: Economic Perspective ](https://ethresear.ch/t/max-blobs-flag-economic-perspective/21798)
 - **Date:** Feb 20, 2025
 
 #### [Delayed Execution And Skipped Transactions](https://ethresear.ch/t/delayed-execution-and-skipped-transactions/21677)  
