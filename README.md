@@ -1,7 +1,7 @@
 # My Research
 
 ## Team
-I work as a researcher at the Applied Research Group (ARG) at the Ethereum Foundation.
+I work as a researcher at the prototyping team at the Ethereum Foundation.
 
 ## Focus
 - **Consensus Layer Research**
@@ -24,6 +24,7 @@ I work as a researcher at the Applied Research Group (ARG) at the Ethereum Found
 5. [EIP-7863: Block-level warming](https://eips.ethereum.org/EIPS/eip-7863)
 6. [EIP-7886: Delayed Execution](https://eips.ethereum.org/EIPS/eip-7886)
 7. [EIP-7928: Block-level Access Lists](https://eips.ethereum.org/EIPS/eip-7928)
+8. [EIP-7976: Further increase calldata cost](https://eips.ethereum.org/EIPS/eip-7976)
    
 
 ## ERCs
@@ -46,47 +47,25 @@ I work as a researcher at the Applied Research Group (ARG) at the Ethereum Found
 
 ---
 
-## Papers
-
-#### [Blockchain censorship](https://arxiv.org/pdf/2305.18545)
-- **Authors:** A Wahrstätter, J Ernstberger, A Yaish, L Zhou, K Qin, T Tsuchiya, ...
-- **Published in:** arXiv preprint arXiv:2305.18545
-- **Year:** 2023
-
-#### [Time to bribe: Measuring block construction market](https://arxiv.org/pdf/2305.16468)
-- **Authors:** A Wahrstätter, L Zhou, K Qin, D Svetinovic, A Gervais
-- **Published in:** arXiv preprint arXiv:2305.16468
-- **Year:** 2023
-
-#### [Improving cryptocurrency crime detection: Coinjoin community detection approach](https://ieeexplore.ieee.org/abstract/document/10023950/)
-- **Authors:** A Wahrstätter, J Gomes, S Khan, D Svetinovic
-- **Published in:** IEEE Transactions on Dependable and Secure Computing
-- **Year:** 2023
-
-#### [Basesap: Modular stealth address protocol for programmable blockchains](https://ieeexplore.ieee.org/iel7/10206/4358835/10426757.pdf)
-- **Authors:** A Wahrstätter, M Solomon, B DiFrancesco, V Buterin, D Svetinovic
-- **Published in:** IEEE Transactions on Information Forensics and Security
-- **Year:** 2024
-
-#### [Reducing Privacy of CoinJoin Transactions: Quantitative Bitcoin Network Analysis](https://ieeexplore.ieee.org/abstract/document/10399884/)
-- **Authors:** A Wahrstätter, A Taudes, D Svetinovic
-- **Published in:** IEEE Transactions on Dependable and Secure Computing
-- **Year:** 2023
-
-#### [OpenFL: A scalable and secure decentralized federated learning system on the Ethereum blockchain](https://www.sciencedirect.com/science/article/pii/S254266052400115X)
-- **Authors:** A Wahrstätter, S Khan, D Svetinovic
-- **Published in:** Internet of Things 26, 101174
-- **Year:** 2024
-
----
-
 ## Blog Posts
+
+#### [Slot Restructuring: Design Considerations and Trade-Offs](https://ethresear.ch/t/slot-restructuring-design-considerations-and-trade-offs/22687)  
+- **Date:** June 30, 2025
+
+#### [Block-level Access Lists (BALs)](https://ethresear.ch/t/block-level-access-lists-bals/22331)  
+- **Date:** May 13, 2025
 
 #### [Delayed Execution and Free DA](https://ethresear.ch/t/delayed-execution-and-free-da/22265)  
 - **Date:** May 5, 2025
 
 #### [Execution Dependencies](https://ethresear.ch/t/execution-dependencies/22150)  
 - **Date:** Apr 14, 2025
+
+  #### [Expanding Mempool Perspectives](https://ethresear.ch/t/expanding-mempool-perspectives/22022)
+- **Date:** March 27, 2025
+
+#### Max-Blobs Flag: Economic Perspective 
+- **Date:** Feb 20, 2025
 
 #### [Delayed Execution And Skipped Transactions](https://ethresear.ch/t/delayed-execution-and-skipped-transactions/21677)  
 - **Date:** Feb 5, 2025
@@ -177,3 +156,37 @@ I work as a researcher at the Applied Research Group (ARG) at the Ethereum Found
 
 #### [Privacy-Preserving Proof of Ownership for Attendance Tokens (PoA) using zk-SNARKs](https://medium.com/@toni_w/privacy-preserving-proof-of-owernship-for-attendance-tokens-poa-using-zk-snarks-4fddabedfddb)  
 - **Date:** Jul 24, 2022
+
+---
+  
+## Papers
+
+#### [Blockchain censorship](https://arxiv.org/pdf/2305.18545)
+- **Authors:** A Wahrstätter, J Ernstberger, A Yaish, L Zhou, K Qin, T Tsuchiya, ...
+- **Published in:** arXiv preprint arXiv:2305.18545
+- **Year:** 2023
+
+#### [Time to bribe: Measuring block construction market](https://arxiv.org/pdf/2305.16468)
+- **Authors:** A Wahrstätter, L Zhou, K Qin, D Svetinovic, A Gervais
+- **Published in:** arXiv preprint arXiv:2305.16468
+- **Year:** 2023
+
+#### [Improving cryptocurrency crime detection: Coinjoin community detection approach](https://ieeexplore.ieee.org/abstract/document/10023950/)
+- **Authors:** A Wahrstätter, J Gomes, S Khan, D Svetinovic
+- **Published in:** IEEE Transactions on Dependable and Secure Computing
+- **Year:** 2023
+
+#### [Basesap: Modular stealth address protocol for programmable blockchains](https://ieeexplore.ieee.org/iel7/10206/4358835/10426757.pdf)
+- **Authors:** A Wahrstätter, M Solomon, B DiFrancesco, V Buterin, D Svetinovic
+- **Published in:** IEEE Transactions on Information Forensics and Security
+- **Year:** 2024
+
+#### [Reducing Privacy of CoinJoin Transactions: Quantitative Bitcoin Network Analysis](https://ieeexplore.ieee.org/abstract/document/10399884/)
+- **Authors:** A Wahrstätter, A Taudes, D Svetinovic
+- **Published in:** IEEE Transactions on Dependable and Secure Computing
+- **Year:** 2023
+
+#### [OpenFL: A scalable and secure decentralized federated learning system on the Ethereum blockchain](https://www.sciencedirect.com/science/article/pii/S254266052400115X)
+- **Authors:** A Wahrstätter, S Khan, D Svetinovic
+- **Published in:** Internet of Things 26, 101174
+- **Year:** 2024
