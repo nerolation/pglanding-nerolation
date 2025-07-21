@@ -1,0 +1,290 @@
+[
+  {
+    "title": "Slot Restructuring: Design Considerations and Trade-Offs",
+    "description": "Analysis of slot restructuring design considerations and trade-offs for Ethereum",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/slot-restructuring-design-considerations-and-trade-offs/22687"
+  },
+  {
+    "title": "Block-level Access Lists (BALs)",
+    "description": "Proposal for block-level access lists to improve Ethereum execution efficiency",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/block-level-access-lists-bals/22331"
+  },
+  {
+    "title": "Delayed Execution and Free DA",
+    "description": "Research on delayed execution mechanisms and free data availability",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/delayed-execution-and-free-da/22265"
+  },
+  {
+    "title": "Execution Dependencies",
+    "description": "Analysis of execution dependencies in Ethereum block processing",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/execution-dependencies/22150"
+  },
+  {
+    "title": "Expanding Mempool Perspectives",
+    "description": "Research on expanding perspectives and analysis of Ethereum mempool dynamics",
+    "label": "DL",
+    "url": "https://ethresear.ch/t/expanding-mempool-perspectives/22022"
+  },
+  {
+    "title": "Max-Blobs Flag: Economic Perspective",
+    "description": "Economic analysis of the max-blobs flag and its implications",
+    "label": "DL",
+    "url": "https://ethresear.ch/t/max-blobs-flag-economic-perspective/21798"
+  },
+  {
+    "title": "Delayed Execution And Skipped Transactions",
+    "description": "Research on delayed execution and handling of skipped transactions",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/delayed-execution-and-skipped-transactions/21677"
+  },
+  {
+    "title": "Block-Level Warming",
+    "description": "Proposal for block-level warming to improve execution efficiency",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/block-level-warming/21452"
+  },
+  {
+    "title": "On Increasing the Block Gas Limit",
+    "description": "Technical considerations and path forward for increasing Ethereum block gas limit",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/on-increasing-the-block-gas-limit-technical-considerations-path-forward/21225"
+  },
+  {
+    "title": "On Blob Markets, Base Fee Adjustments and Optimizations",
+    "description": "Analysis of blob markets, base fee adjustments and optimization strategies",
+    "label": "DL",
+    "url": "https://ethresear.ch/t/on-blob-markets-base-fee-adjustments-and-optimizations/21024"
+  },
+  {
+    "title": "On solo staking, local block building and blobs",
+    "description": "Research on solo staking implications with local block building and blob handling",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/on-solo-staking-local-block-building-and-blobs/20540"
+  },
+  {
+    "title": "Steelmanning a blob throughput increase for Pectra",
+    "description": "Arguments for increasing blob throughput in the Pectra upgrade",
+    "label": "DL",
+    "url": "https://ethresear.ch/t/steelmanning-a-blob-throughput-increase-for-pectra/20499"
+  },
+  {
+    "title": "On Proposer Timing Games and Economies of Scale",
+    "description": "Analysis of proposer timing games and their economies of scale implications",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/on-proposer-timing-games-and-economies-of-scale/20309"
+  },
+  {
+    "title": "On Attestations, Block Propagation, and Timing Games",
+    "description": "Research on attestations, block propagation dynamics and timing game strategies",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/on-attestations-block-propagation-and-timing-games/20272"
+  },
+  {
+    "title": "Diseconomies of Scale: Anti-Correlation Penalties (EIP-7716)",
+    "description": "EIP-7716 proposal for anti-correlation penalties to address economies of scale",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/diseconomies-of-scale-anti-correlation-penalties-eip-7716/20114"
+  },
+  {
+    "title": "Deep Diving Attestations - A Quantitative Analysis",
+    "description": "Quantitative analysis of Ethereum attestation patterns and behaviors",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/deep-diving-attestations-a-quantitative-analysis/20020"
+  },
+  {
+    "title": "Blobs, Reorgs, and the Role of MEV-Boost",
+    "description": "Analysis of blob interactions with reorgs and MEV-Boost's role",
+    "label": "DL",
+    "url": "https://ethresear.ch/t/blobs-reorgs-and-the-role-of-mev-boost/19783"
+  },
+  {
+    "title": "Is it worth using MEV-Boost?",
+    "description": "Quantitative analysis on the benefits and drawbacks of using MEV-Boost",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/is-it-worth-using-mev-boost/19753"
+  },
+  {
+    "title": "Big blocks, blobs, and reorgs",
+    "description": "Research on the relationship between block size, blobs and reorganization risks",
+    "label": "DL",
+    "url": "https://ethresear.ch/t/big-blocks-blobs-and-reorgs/19674"
+  },
+  {
+    "title": "Slashing Proofoor - On-chain slashed validator proofs",
+    "description": "Implementation of on-chain proofs for slashed validators",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/slashing-proofoor-on-chain-slashed-validator-proofs/19421"
+  },
+  {
+    "title": "Analysis on Correlated Attestation Penalties",
+    "description": "Analysis of correlated attestation penalties and their impact on validators",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/analysis-on-correlated-attestation-penalties/19244"
+  },
+  {
+    "title": "EIP-7623 - Post-4844 Analysis",
+    "description": "Post-4844 analysis of EIP-7623 calldata cost increase proposal",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/eip-7623-post-4844-analysis/19199"
+  },
+  {
+    "title": "Analyzing EIP-7623: Increase Calldata Cost",
+    "description": "Detailed analysis of EIP-7623 proposal to increase calldata costs",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/analyzing-eip-7623-increase-calldata-cost/19002"
+  },
+  {
+    "title": "On Increasing the Block Gas Limit",
+    "description": "Research on implications and considerations for increasing block gas limit",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/on-increasing-the-block-gas-limit/18567"
+  },
+  {
+    "title": "On Block Sizes, Gas Limits and Scalability",
+    "description": "Analysis of block sizes, gas limits and their impact on scalability",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/on-block-sizes-gas-limits-and-scalability/184443"
+  },
+  {
+    "title": "In a post MEV-Burn world - Some simulations and stats",
+    "description": "Simulations and statistics for a post MEV-Burn implementation world",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/in-a-post-mev-burn-world-some-simulations-and-stats/17092"
+  },
+  {
+    "title": "Cumulative, Non-Expiring Inclusion Lists",
+    "description": "Proposal for cumulative, non-expiring inclusion lists mechanism",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/cumulative-non-expiring-inclusion-lists/16520"
+  },
+  {
+    "title": "The Second-Slot Itch - Statistical Analysis of Reorgs",
+    "description": "Statistical analysis of reorganizations focusing on second-slot patterns",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/the-second-slot-itch-statistical-analysis-of-reorgs/16333"
+  },
+  {
+    "title": "Selfish Mixing and RANDAO Manipulation",
+    "description": "Analysis of selfish mixing strategies and RANDAO manipulation techniques",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/selfish-mixing-and-randao-manipulation/16081"
+  },
+  {
+    "title": "Gas Ticketing - A Backstage Pass to Ethereum Blocks",
+    "description": "Proposal for gas ticketing mechanism to improve block space allocation",
+    "label": "EL",
+    "url": "https://hackmd.io/@Nerolation/rkp8LyRUh"
+  },
+  {
+    "title": "Builders on MEV - Analysing the impact of the OFAC sanctions",
+    "description": "Analysis of OFAC sanctions impact on block builders and MEV",
+    "label": "CL",
+    "url": "./builder-censorship.html"
+  },
+  {
+    "title": "Practical Guide into Analyzing MEV in the Proof-of-Stake Era",
+    "description": "Comprehensive guide for analyzing MEV in Ethereum's proof-of-stake system",
+    "label": "CL",
+    "url": "https://medium.com/@toni_w/practical-guide-into-analyzing-mev-in-the-proof-of-stake-era-e2b024509918"
+  },
+  {
+    "title": "ERC-5564: Improving Privacy on Ethereum through Stealth Address Wallets",
+    "description": "ERC-5564 proposal for implementing stealth address wallets on Ethereum",
+    "label": "EL",
+    "url": "./eip5564.html"
+  },
+  {
+    "title": "Ethereum Datafarm: Parsing Historic Event Data",
+    "description": "Guide for parsing historic event data from Ethereum blockchain using Etherscan API",
+    "label": "DL",
+    "url": "https://medium.com/@toni_w/ethereum-datafarm-parsing-historic-event-data-from-the-ethereum-blockchain-into-csv-files-using-9c7ec79dfe7c"
+  },
+  {
+    "title": "ERC721 Extension for zk-SNARKs",
+    "description": "Proposal for extending ERC721 with zero-knowledge proof capabilities",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/erc721-extension-for-zk-snarks/13237"
+  },
+  {
+    "title": "Privacy-Preserving Proof of Ownership for Attendance Tokens",
+    "description": "Implementation of privacy-preserving proof of ownership using zk-SNARKs",
+    "label": "EL",
+    "url": "https://medium.com/@toni_w/privacy-preserving-proof-of-owernship-for-attendance-tokens-poa-using-zk-snarks-4fddabedfddb"
+  },
+  {
+    "title": "PyXatu",
+    "description": "Open source Python library for Ethereum beacon chain data analysis",
+    "label": "DL",
+    "url": "https://github.com/nerolation/pyxatu"
+  },
+  {
+    "title": "DotPics.Info",
+    "description": "Collection of Ethereum data visualization dashboards and analytics tools",
+    "label": "DL",
+    "url": "https://dotpics.info"
+  },
+  {
+    "title": "EIP-7623: Increase Calldata Cost",
+    "description": "Ethereum Improvement Proposal to increase calldata cost for better resource pricing",
+    "label": "EL",
+    "url": "https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7623.md"
+  },
+  {
+    "title": "EIP-7691: Blob throughput increase",
+    "description": "Ethereum Improvement Proposal to increase blob throughput capacity",
+    "label": "DL",
+    "url": "https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7691.md"
+  },
+  {
+    "title": "EIP-7716: Anti-Correlation Attestation Penalties",
+    "description": "Ethereum Improvement Proposal for anti-correlation attestation penalties",
+    "label": "CL",
+    "url": "https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7716.md"
+  },
+  {
+    "title": "EIP-7862: Delayed Execution Layer State Root",
+    "description": "Ethereum Improvement Proposal for delayed execution layer state root",
+    "label": "EL",
+    "url": "https://eips.ethereum.org/EIPS/eip-7862"
+  },
+  {
+    "title": "EIP-7863: Block-level warming",
+    "description": "Ethereum Improvement Proposal for block-level state warming",
+    "label": "EL",
+    "url": "https://eips.ethereum.org/EIPS/eip-7863"
+  },
+  {
+    "title": "EIP-7886: Delayed Execution",
+    "description": "Ethereum Improvement Proposal for delayed execution mechanism",
+    "label": "EL",
+    "url": "https://eips.ethereum.org/EIPS/eip-7886"
+  },
+  {
+    "title": "EIP-7928: Block-level Access Lists",
+    "description": "Ethereum Improvement Proposal for block-level access lists",
+    "label": "EL",
+    "url": "https://eips.ethereum.org/EIPS/eip-7928"
+  },
+  {
+    "title": "EIP-7976: Further increase calldata cost",
+    "description": "Ethereum Improvement Proposal to further increase calldata cost",
+    "label": "EL",
+    "url": "https://eips.ethereum.org/EIPS/eip-7976"
+  },
+  {
+    "title": "ERC-5564: Stealth Addresses",
+    "description": "Ethereum Request for Comments for stealth address implementation",
+    "label": "EL",
+    "url": "https://github.com/ethereum/ERCs/blob/master/ERCS/erc-5564.md"
+  },
+  {
+    "title": "ERC-6538: Stealth Meta-Address Registry",
+    "description": "Ethereum Request for Comments for stealth meta-address registry",
+    "label": "EL",
+    "url": "https://eips.ethereum.org/EIPS/eip-6538"
+  }
+]
