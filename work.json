@@ -1,5 +1,19 @@
 [
   {
+    "title": "Overclocking Blocks with Gas Refunds",
+    "description": "Analysis of gas refunds, EIP-7778 and worst-case state changes",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/overclocking-blocks-with-gas-refunds/22862",
+    "date": "2025-08-03"
+  },
+  {
+    "title": "Capping Transaction Gas: Data, Impact, and Rationale",
+    "description": "Analysis of capping the transaction gas limit at 2**24 gas",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/capping-transaction-gas-data-impact-and-rationale/22738",
+    "date": "2025-07-14"
+  },
+  {
     "title": "Slot Restructuring: Design Considerations and Trade-Offs",
     "description": "Analysis of slot restructuring design considerations and trade-offs for Ethereum",
     "label": "CL",
