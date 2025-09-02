@@ -1,5 +1,12 @@
 [
   {
+    "title": "Payload Chunking",
+    "description": "Proposal for splitting blocks into independent chuns",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/payload-chunking/23008",
+    "date": "2025-09-02"
+  },
+  {
     "title": "Overclocking Blocks with Gas Refunds",
     "description": "Analysis of gas refunds, EIP-7778 and worst-case state changes",
     "label": "EL",
