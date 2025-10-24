@@ -1,7 +1,21 @@
 [
   {
+    "title": "Fusaka Update – Transaction Gas Limit Cap arrives with EIP-7825",
+    "description": "Announcement of EIP-7825 from the EF blog",
+    "label": "EL",
+    "url": "https://blog.ethereum.org/2025/10/21/fusaka-gascap-update",
+    "date": "2025-10-21"
+  },
+  {
+    "title": "Toward Semantic Block Chunking",
+    "description": "Follow-up on payload chunking",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/toward-semantic-block-chunking/23129",
+    "date": "2025-09-29"
+  },
+  {
     "title": "Payload Chunking",
-    "description": "Proposal for splitting blocks into independent chuns",
+    "description": "Proposal for splitting blocks into independent chunks",
     "label": "CL",
     "url": "https://ethresear.ch/t/payload-chunking/23008",
     "date": "2025-09-02"
