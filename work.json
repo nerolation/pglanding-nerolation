@@ -1,5 +1,12 @@
 [
   {
+    "title": "Modeling the Worst-Case Parallel Execution under EIP-7928",
+    "description": "Modelling OLS vs Greedy Scheduling over increasing gas limits",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/modeling-the-worst-case-parallel-execution-under-eip-7928/23418",
+    "date": "2025-11-10"
+  },
+  {
     "title": "Fusaka Update – Transaction Gas Limit Cap arrives with EIP-7825",
     "description": "Announcement of EIP-7825 from the EF blog",
     "label": "EL",
