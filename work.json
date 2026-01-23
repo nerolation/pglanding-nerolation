@@ -1,5 +1,12 @@
 [
   {
+  "title": "Worst-Case Block Size and Calldata Repricing for Glamsterdam",
+  "description": "Analysis of Ethereum’s worst-case block size and implications for repricings in Glamsterdam",
+  "label": "EL",
+  "url": "https://ethresear.ch/t/worst-case-block-size-and-calldata-repricing-for-glamsterdam/23895",
+  "date": "2026-01-21"
+  },
+  {
     "title": "Modeling the Worst-Case Parallel Execution under EIP-7928",
     "description": "Modelling OLS vs Greedy Scheduling over increasing gas limits",
     "label": "EL",
