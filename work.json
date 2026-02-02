@@ -1,5 +1,12 @@
 [
   {
+  "title": "Early Rejection of Adversarial BALs",
+  "description": "Analysis of validation asymmetries in BALs and a gas-budget based mitigation for early invalidation",
+  "label": "EL",
+  "url": "https://ethresear.ch/t/early-rejection-of-adversarial-bals/23995",
+  "date": "2026-02-02"
+  },
+  {
   "title": "Worst-Case Block Size and Calldata Repricing for Glamsterdam",
   "description": "Analysis of Ethereum’s worst-case block size and implications for repricings in Glamsterdam",
   "label": "EL",
