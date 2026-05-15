@@ -1,5 +1,33 @@
 [
   {
+    "title": "Frame Transactions and the Three Gates to Privacy",
+    "description": "Analysis of how frame transactions (EIP-8141) interact with public mempool rules, FOCIL enforcement, and statelessness, and what would be needed to make privacy protocols censorship-resistant",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/frame-transactions-and-the-three-gates-to-privacy/24666",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Blocks Are Dead. Long Live Blobs",
+    "description": "Walkthrough of Block-in-Blobs (BiB / EIP-8142) encoding transactions into blobs for DA sampling, with a unified data gas accounting proposal",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/blocks-are-dead-long-live-blobs/24611",
+    "date": "2026-04-07"
+  },
+  {
+    "title": "Why a Variable Payload Deadline Only Helps by ~6%",
+    "description": "Analysis of why a variable payload deadline yields at most ~6% gas-limit headroom and degrades in practice due to uncompressed-size anchoring",
+    "label": "CL",
+    "url": "https://ethresear.ch/t/why-a-variable-payload-deadline-only-helps-by-6/24488",
+    "date": "2026-03-23"
+  },
+  {
+    "title": "Snap v2: Replacing Trie Healing with BALs",
+    "description": "Proposal for a snap/2 sync protocol that replaces iterative trie healing with sequential BAL application",
+    "label": "EL",
+    "url": "https://ethresear.ch/t/snap-v2-replacing-trie-healing-with-bals/24333",
+    "date": "2026-03-10"
+  },
+  {
   "title": "Early Rejection of Adversarial BALs",
   "description": "Analysis of validation asymmetries in BALs and a gas-budget based mitigation for early invalidation",
   "label": "EL",
