@@ -1,5 +1,12 @@
 [
   {
+  "title": "Native UTXOs on Ethereum",
+  "description": "Proposal for native UTXOs on Ethereum using EIP-8141 frame transactions to reduce permanent state by storing only spent bits while proving UTXO existence from history",
+  "label": "EL",
+  "url": "https://ethresear.ch/t/native-utxos-on-ethereum/25368",
+  "date": "2026-07-06"
+  },
+  {
     "title": "Frame Transactions and the Three Gates to Privacy",
     "description": "Analysis of how frame transactions (EIP-8141) interact with public mempool rules, FOCIL enforcement, and statelessness, and what would be needed to make privacy protocols censorship-resistant",
     "label": "EL",
